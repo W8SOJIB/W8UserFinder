@@ -22,4 +22,4 @@ bash W8UserFinder.sh
 ## Find Me 
 [![Github](https://img.shields.io/badge/GitHub-W8SOJIB-yellow?style=for-the-badge&logo=github)](https://github.com/W8SOJIB)
   
-** ![Views]https://profile-counter.glitch.me/W8UserFinder/count.svg
+![Views](https://profile-counter.glitch.me/W8SOJIB/count.svg)
