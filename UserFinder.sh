@@ -11,7 +11,7 @@ printf "\e[1;77m|       ||____  ||    ___||    __  |  |    ___||   ||  _    || |
 printf "\e[1;77m|       | ____| ||   |___ |   |  | |  |   |    |   || | |   ||       ||   |___ |   |  | |\e[0m\n"
 printf "\e[1;77m|_______||______||_______||___|  |_|  |___|    |___||_|  |__||______| |_______||___|  |_|\e[0m\n"
 printf "\n"
-printf "\e[1;93m             .:.:;..\e[0m\e[1;77m UserFinder v1.0 Developer: misha korzhik \e[0m\e[1;93m..;:.:.\e[0m\n"
+printf "\e[1;93m             .:.:;..\e[0m\e[1;77m W8UserFinder v1.0 Modify: W8SOJIB \e[0m\e[1;93m..;:.:.\e[0m\n"
 printf "\n"
 
 
